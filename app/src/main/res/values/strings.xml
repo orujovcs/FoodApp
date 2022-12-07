@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Foodies</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="aciklama_text">Eşsiz lezzeti ve süper hızlı sunumuyla sizleri kendine hayran bırakacak bir lezzet</string>
+    <string name="sepete_ekle">SEPETE EKLE</string>
+    <string name="cikisyap">Çıkış Yap</string>
+    <string name="ara">Ara</string>
+    <string name="siparisver">SİPARİŞ VER</string>
+    <string name="kayit_ol">KAYIT OL</string>
+    <string name="epostagiriniz">E-posta adresinizi giriniz</string>
+    <string name="sifrenizigiriniz">Şifrenizi giriniz</string>
+    <string name="girisyap">GİRİŞ YAP</string>
+</resources>
